@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Swelltyz
-- 👀 I’m interested in Fortnite Battle Royale
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Fortnite Battle Royale (of course I am!)
+- 🌱 I’m currently learning Computer Science in Trinity
 - 📫 How to reach me MySpace
-- 😄 Pronouns: ...
+- The fog is coming ... 😄
 - ⚡ Fun fact: I drank shy of a full bottle of nurofen when i was a child because i liked the strawberry flavour.
 
 <!---
